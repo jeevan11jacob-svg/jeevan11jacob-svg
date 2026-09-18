@@ -64,3 +64,13 @@ I'm a B.Tech Artificial Intelligence & Data Science graduate passionate about Cl
   <b>GitHub</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>Python</b>
 </p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="55" height="55" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55" />
+</p>
+
+<p align="center">
+  <b>MongoDB</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>MySQL</b>
+</p>
