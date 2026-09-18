@@ -115,3 +115,22 @@ React • Node.js • Express • MongoDB • Docker • Kubernetes • Jenkins 
 
 🔗 **[View Project on GitHub](https://github.com/jeevan11jacob-svg/task-manager-devops)**
 
+### 🐧 Enterprise Linux Infrastructure Automation
+
+Automated common Linux infrastructure administration tasks using Ansible on RHEL 9.
+
+**🛠️ Tech Stack:**
+RHEL 9 • Ansible • Linux • MySQL • Git
+
+**⚙️ Automation Highlights:**
+
+* Automated Linux user and group management
+* Configured and managed web server infrastructure
+* Automated database setup and configuration
+* Implemented automated backup tasks
+* Used Ansible roles for reusable infrastructure automation
+* Protected sensitive configuration using Ansible Vault
+
+🔗 **[View Project on GitHub](https://github.com/jeevan11jacob-svg/Enterprise-Linux-Infrastructure-Automation)**
+
+
