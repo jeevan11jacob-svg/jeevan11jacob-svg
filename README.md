@@ -162,12 +162,19 @@ AWS • VPC • EC2 • Application Load Balancer • Auto Scaling • S3 • EF
   <a href="https://www.linkedin.com/in/jeevan-jacob1">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://jeevan11jacob-svg.github.io/jeevan-jacob-portfolio/">
-    🌐 Portfolio
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" alt="Portfolio" width="45" height="45" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:jeevan11jacob@gmail.com">
-    📧 Email
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="Email" width="45" height="45" />
   </a>
 </p>
+
+<p align="center">
+  <b>LinkedIn</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Portfolio</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Email</b>
+</p>
+
