@@ -16,7 +16,7 @@ I'm a B.Tech Artificial Intelligence & Data Science graduate passionate about Cl
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/amazonaws" alt="AWS" width="55" height="55" />
+ <img src="https://cdn.simpleicons.org/amazonaws/FF9900" alt="AWS" width="55" height="55" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/docker" alt="Docker" width="55" height="55" />
   &nbsp;&nbsp;&nbsp;
