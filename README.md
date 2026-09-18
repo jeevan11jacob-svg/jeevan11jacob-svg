@@ -51,3 +51,16 @@ I'm a B.Tech Artificial Intelligence & Data Science graduate passionate about Cl
   <b>Linux</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>Nginx</b>
 </p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="55" height="55" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="55" height="55" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="55" height="55" />
+</p>
+
+<p align="center">
+  <b>Git</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>GitHub</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Python</b>
+</p>
