@@ -149,12 +149,11 @@ AWS • VPC • EC2 • Application Load Balancer • Auto Scaling • S3 • EF
 * Configured CloudWatch for monitoring and observability
 
 🔗 **[View Project on GitHub](https://github.com/jeevan11jacob-svg/AWS-Scalable-Web-Application)**
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeevan11jacob-svg&show_icons=true&hide_border=true" alt="Jeevan's GitHub Stats" height="180" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevan11jacob-svg&layout=compact&hide_border=true" alt="Jeevan's Top Languages" height="180" />
+  ...
 </p>
 
 
