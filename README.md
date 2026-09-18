@@ -41,4 +41,13 @@ I'm a B.Tech Artificial Intelligence & Data Science graduate passionate about Cl
   <b>Terraform</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>Ansible</b>
 </p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="55" height="55" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="Nginx" width="55" height="55" />
+</p>
 
+<p align="center">
+  <b>Linux</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Nginx</b>
+</p>
