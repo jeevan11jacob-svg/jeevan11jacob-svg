@@ -156,5 +156,20 @@ AWS • VPC • EC2 • Application Load Balancer • Auto Scaling • S3 • EF
   ...
 </p>
 
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jeevan-jacob1">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://jeevan11jacob-svg.github.io/jeevan-jacob-portfolio/">
+    🌐 Portfolio
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:jeevan11jacob@gmail.com">
+    📧 Email
+  </a>
+</p>
 
 
