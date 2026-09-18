@@ -171,5 +171,3 @@ AWS • VPC • EC2 • Application Load Balancer • Auto Scaling • S3 • EF
     📧 Email
   </a>
 </p>
-
-
