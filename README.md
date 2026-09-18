@@ -74,3 +74,44 @@ I'm a B.Tech Artificial Intelligence & Data Science graduate passionate about Cl
   <b>MongoDB</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>MySQL</b>
 </p>
+## 🚀 Featured Projects
+
+### 🔥 TaskFlow — MERN + Kubernetes + CI/CD
+
+A production-style task management application built and deployed using modern DevOps practices.
+
+**🛠️ Tech Stack:**
+React • Node.js • Express • MongoDB • Docker • Kubernetes • Jenkins • Nginx • AWS
+
+**⚙️ DevOps Highlights:**
+
+* Containerized frontend, backend, and database components
+* Automated CI/CD pipeline using Jenkins
+* Kubernetes-based application deployment
+* MongoDB persistent storage using Kubernetes PVC
+* NGINX Ingress for application routing
+* AWS EC2 infrastructure
+* Hands-on troubleshooting of Kubernetes networking and deployment issues
+
+🔗 **[View Project on GitHub](https://github.com/jeevan11jacob-svg/task-manager-devops)**
+## 🚀 Featured Projects
+
+### 🔥 TaskFlow — MERN + Kubernetes + CI/CD
+
+A production-style task management application built and deployed using modern DevOps practices.
+
+**🛠️ Tech Stack:**
+React • Node.js • Express • MongoDB • Docker • Kubernetes • Jenkins • Nginx • AWS
+
+**⚙️ DevOps Highlights:**
+
+* Containerized frontend, backend, and database components
+* Automated CI/CD pipeline using Jenkins
+* Kubernetes-based application deployment
+* MongoDB persistent storage using Kubernetes PVC
+* NGINX Ingress for application routing
+* AWS EC2 infrastructure
+* Hands-on troubleshooting of Kubernetes networking and deployment issues
+
+🔗 **[View Project on GitHub](https://github.com/jeevan11jacob-svg/task-manager-devops)**
+
