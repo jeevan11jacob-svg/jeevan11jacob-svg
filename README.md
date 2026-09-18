@@ -132,5 +132,23 @@ RHEL 9 • Ansible • Linux • MySQL • Git
 * Protected sensitive configuration using Ansible Vault
 
 🔗 **[View Project on GitHub](https://github.com/jeevan11jacob-svg/Enterprise-Linux-Infrastructure-Automation)**
+### ☁️ AWS Scalable Web Application
+
+Designed and deployed a highly available web application infrastructure on AWS using scalable and fault-tolerant cloud services.
+
+**🛠️ Tech Stack:**
+AWS • VPC • EC2 • Application Load Balancer • Auto Scaling • S3 • EFS • CloudWatch
+
+**⚙️ Cloud Highlights:**
+
+* Designed a custom VPC with public and private networking
+* Deployed application workloads on EC2
+* Configured Application Load Balancer for traffic distribution
+* Implemented Auto Scaling for application instances
+* Used S3 and EFS for storage
+* Configured CloudWatch for monitoring and observability
+
+🔗 **[View Project on GitHub](https://github.com/jeevan11jacob-svg/AWS-Scalable-Web-Application)**
+
 
 
